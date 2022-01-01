@@ -1,0 +1,8 @@
+.coding-skills {
+  .skill-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 1.2rem 1rem;
+    padding: .8rem;
+  }
+}

@@ -1,0 +1,26 @@
+.navbar {
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+  .title {
+    .name {
+      h1 {
+        color: $primaryColor;
+      }
+    }
+  }
+  .links {
+    margin-left: auto;
+    a {
+      text-decoration: none;
+      padding: .3rem;
+      &:hover {
+        color: $primaryColor;
+        font-weight: bold;
+      }
+    }
+  }
+}
