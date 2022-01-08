@@ -6,7 +6,7 @@ const Projects = () => {
   
   return (
     <div className="work">
-      { data.projects && <ProjectList projects={data.projects} title="My Projects" page="project"/>}
+      { data.projects && <ProjectList projects={data.projects} title="My Side Projects" page="project"/>}
     </div>
   );
 }

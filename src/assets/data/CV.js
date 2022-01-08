@@ -42,7 +42,7 @@ const CVData = {
       "id": 1, "title": "E-Commerce Shopping Cart",
       "time": "2022.01",
       "keywords": ["React", "Redux", "TypeScript"],
-      "link": "https://react-redux-ts-shoppingcart-3dkpa3b8q-wei30172.vercel.app/",
+      "link": "https://react-redux-ts-shoppingcart.vercel.app/",
       "description": "Built the E-commerce shopping cart with React, Redux, and TypeScript. Users can add products to the shopping cart and create an order.",
       "images": ["react-e-commerce1", "react-e-commerce2", "react-e-commerce3", "react-e-commerce4", "react-e-commerce5"]
     },

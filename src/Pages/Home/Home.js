@@ -34,17 +34,17 @@ const Home = () => {
         { error && <div>{error}</div> }
         { isPending && <div>Loading...</div> }
         {projects && <div>
-          <button onClick={() => setlistType('all')}>All Projects</button>
-          <button onClick={() => setlistType('react')}>React Projects</button>
+          <button onClick={() => setlistType('all')}>All</button>
+          <button onClick={() => setlistType('react')}>React</button>
         </div>}
         { projects && listType === 'all' && <ProjectList
           projects={projects}
-          title="All Projects"
+          title="All Side Projects"
           page="home"
         />}
         { projects && listType === 'react' && <ProjectList
           projects={projects.filter(project => project.keywords.includes('React'))}
-          title="React Projects"
+          title="React Side Projects"
           page="home"
         />}
       </div>
