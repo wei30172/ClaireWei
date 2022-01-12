@@ -18,8 +18,8 @@ const CVData = {
       "location": "Taipei, Taiwan",
       "description": "Worked with the UI designers and backend engineers to build features for the online education platform.",
       "contents": [
-        "Implemented the game character information page (users can collect and select the online character on this page) using Vue.js with TypeScript, and the layout followed the Adobe Xd provided by UI.",
-        "Developed a web browser game (similar to Candy Crash) based on Phaser 3 game framework.",
+        "Implemented the game character information page (users can collect and select the online character on this page) using Vue.js with TypeScript, and the layout followed the Adobe XD provided by UI.",
+        "Developed a web browser game (similar to Candy Crush) based on Phaser 3 game framework.",
         "Solved the bugs in the existing background management interface and enhanced user experiences.",
         "Used GitLab with SourceTree for version control."
       ]
