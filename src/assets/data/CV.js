@@ -75,7 +75,7 @@ const CVData = {
       "time": "2021.11",
       "keywords": ["React", "Next"],
       "link": "https://recipe-next-contentful-three.vercel.app/",
-      "description": "Used React, Next.js & Contentful Site to build a recipe web.",
+      "description": "Used React and Next.js to build a recipe web.",
       "images": ["react-recipe-web1", "react-recipe-web2"]
     },
     {
@@ -83,7 +83,7 @@ const CVData = {
       "time": "2021.10",
       "keywords": ["React", "Firebase"],
       "link": "https://react-project-web-a896d.web.app/",
-      "description": "Used React and Firebase to build the bulletin board. Users need to log in to see and create new posts",
+      "description": "Built a bulletin board with React and Firebase. Users need to log in to see and create new posts.",
       "images": ["react-bulletin-board1", "react-bulletin-board2", "react-bulletin-board3", "react-bulletin-board4"]
     },
     {
@@ -99,7 +99,7 @@ const CVData = {
       "time": "2021.10",
       "keywords": ["HTML", "CSS", "JavaScript"],
       "link": "https://wei30172.github.io/Snake_Game/",
-      "description": "Used HTML, CSS, JavaScript to build a snake game. Users can use the arrow key to change the direction.",
+      "description": "Used HTML, CSS, JavaScript to build a snake game. Users use the arrow key to change the direction.",
       "images": ["snake-game1", "snake-game2", "snake-game3"]
     },
     {

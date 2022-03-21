@@ -3,7 +3,7 @@ import './Link.scss'
 const Link = () => {
   return (
     <div className="link">
-      <a href="https://wei30172.github.io/assets/documents/SiaoPing,%20WEI%20Resume-2022-03.pdf"
+      <a href="https://wei30172.github.io/assets/documents/SiaoPing,%20Wei%20Resume-2022-03.pdf"
         target="_blank" rel="noopener noreferrer">
         <button>Vitae</button>
       </a>
