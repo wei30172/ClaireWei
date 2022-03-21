@@ -39,7 +39,23 @@ const CVData = {
   ],
   projects: [
     {
-      "id": 1, "title": "E-Commerce Shopping Cart",
+      "id": 1, "title": "Full Stack Blog Website",
+      "time": "2022.03",
+      "keywords": ["React", "Redux", "Next.js", "Tailwind CSS", "GraphQL"],
+      "link": "https://react-next-blog-202203.netlify.app/",
+      "description": "Used React, Next.js, Tailwind CSS & GraphQL to build a Blog Website with featured and recent posts, categories.",
+      "images": ["full-stack-web1", "full-stack-web2", "full-stack-web3", "full-stack-web4", "full-stack-web5"]
+    },
+    {
+      "id": 2, "title": "Full Stack MERN Website",
+      "time": "2022.02",
+      "keywords": ["React", "Redux", "Node.js", "Express", "MongoDB"],
+      "link": "https://react-node-posts-202202.netlify.app/",
+      "description": "Used React, Node.js, Express & MongoDB to build a simple social media Website.",
+      "images": ["MERN-web1", "MERN-web2", "MERN-web3", "MERN-web4", "MERN-web5", "MERN-web6"]
+    },
+    {
+      "id": 3, "title": "E-Commerce Shopping Cart",
       "time": "2022.01",
       "keywords": ["React", "Redux", "TypeScript"],
       "link": "https://react-redux-ts-shoppingcart.vercel.app/",
@@ -47,7 +63,7 @@ const CVData = {
       "images": ["react-e-commerce1", "react-e-commerce2", "react-e-commerce3", "react-e-commerce4", "react-e-commerce5"]
     },
     {
-      "id": 2, "title": "Memory Game",
+      "id": 4, "title": "Memory Game",
       "time": "2021.11",
       "keywords": ["React"],
       "link": "https://memory-game-react-bay.vercel.app/",
@@ -55,15 +71,15 @@ const CVData = {
       "images": ["react-memory-game1", "react-memory-game2"]
     },
     {
-      "id": 3, "title": "React Recipe Web",
+      "id": 5, "title": "React Recipe Web",
       "time": "2021.11",
       "keywords": ["React", "Next"],
       "link": "https://recipe-next-contentful-three.vercel.app/",
-      "description": "Used React, Next.js & Contentful Site to build recipe web.",
+      "description": "Used React, Next.js & Contentful Site to build a recipe web.",
       "images": ["react-recipe-web1", "react-recipe-web2"]
     },
     {
-      "id": 4, "title": "React Bulletin Board",
+      "id": 6, "title": "React Bulletin Board",
       "time": "2021.10",
       "keywords": ["React", "Firebase"],
       "link": "https://react-project-web-a896d.web.app/",
@@ -71,7 +87,7 @@ const CVData = {
       "images": ["react-bulletin-board1", "react-bulletin-board2", "react-bulletin-board3", "react-bulletin-board4"]
     },
     {
-      "id": 5, "title": "React Reading List",
+      "id": 7, "title": "React Reading List",
       "time": "2021.10",
       "keywords": ["React"],
       "link": "https://booklist-context-hooks.vercel.app/",
@@ -79,7 +95,7 @@ const CVData = {
       "images": ["react-reading-list1", "react-reading-list2", "react-reading-list3"]
     },
     {
-      "id": 6, "title": "Snake Game",
+      "id": 8, "title": "Snake Game",
       "time": "2021.10",
       "keywords": ["HTML", "CSS", "JavaScript"],
       "link": "https://wei30172.github.io/Snake_Game/",
@@ -87,7 +103,7 @@ const CVData = {
       "images": ["snake-game1", "snake-game2", "snake-game3"]
     },
     {
-      "id": 7, "title": "Tic Tac Toe",
+      "id": 9, "title": "Tic Tac Toe",
       "time": "2021.10",
       "keywords": ["HTML", "CSS", "JavaScript"],
       "link": "https://wei30172.github.io/Tic_Tac_Toe/",
@@ -95,7 +111,7 @@ const CVData = {
       "images": ["tic-tac-toe1", "tic-tac-toe2", "tic-tac-toe3"]
     },
     {
-      "id": 8, "title": "E-Commerce Website",
+      "id": 10, "title": "E-Commerce Website",
       "time": "2020.04",
       "keywords": ["Vue", "Firebase", "Bootstrap"],
       "link": "https://vue-shop-3b5cc.web.app",
