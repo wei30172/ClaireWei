@@ -43,7 +43,7 @@ const CVData = {
       "time": "2022.03",
       "keywords": ["React", "Redux", "Next.js", "Tailwind CSS", "GraphQL"],
       "link": "https://react-next-blog-202203.netlify.app/",
-      "description": "Used React, Next.js, Tailwind CSS & GraphQL to build a Blog Website with featured and recent posts, categories.",
+      "description": "Used React, Next.js, Tailwind CSS, and GraphQL to build a Blog Website with featured and recent posts, categories.",
       "images": ["full-stack-web1", "full-stack-web2", "full-stack-web3", "full-stack-web4", "full-stack-web5"]
     },
     {
@@ -51,7 +51,7 @@ const CVData = {
       "time": "2022.02",
       "keywords": ["React", "Redux", "Node.js", "Express", "MongoDB"],
       "link": "https://react-node-posts-202202.netlify.app/",
-      "description": "Used React, Node.js, Express & MongoDB to build a simple social media Website.",
+      "description": "Used React, Node.js, Express, and MongoDB to build a simple social media Website.",
       "images": ["MERN-web1", "MERN-web2", "MERN-web3", "MERN-web4", "MERN-web5", "MERN-web6"]
     },
     {
