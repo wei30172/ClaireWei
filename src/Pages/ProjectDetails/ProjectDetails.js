@@ -13,7 +13,12 @@ const ProjectDetails = () => {
       { error && <div>{ error }</div> }
       { project && (
         <article>
-          <h2>{ project.title }</h2>
+          <div className='title'>
+            <h2>{ project.title }</h2>
+            <a href={ project.code } target="_blank" rel="noopener noreferrer">
+              <button className="code">CODE</button>
+            </a>
+          </div>
           <p>{ project.keywords && project.keywords.map((keyword, index) =>(
             <span key={index}>#{ keyword }</span>
           )) }</p>
