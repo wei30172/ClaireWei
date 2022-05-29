@@ -45,7 +45,7 @@ const CVData = {
       "link": "https://react-next-sanity-ecommerce-wei30172.vercel.app/",
       "code": "https://github.com/wei30172/react-next-sanity-ecommerce",
       "description": "Built a ecommerce website with React, Next.js, and Sanity. Users can place orders and see order history.",
-      "images": ["full-stack-ecommerce1", "full-stack-ecommerce2", "full-stack-ecommerce3", "full-stack-ecommerce4", "full-stack-ecommerce5", "full-stack-ecommerce6", "full-stack-ecommerce7", "full-stack-ecommerce8"]
+      "images": ["full-stack-ecommerce1", "full-stack-ecommerce2", "full-stack-ecommerce3", "full-stack-ecommerce4", "full-stack-ecommerce5", "full-stack-ecommerce6", "full-stack-ecommerce7", "full-stack-ecommerce8", "full-stack-ecommerce9"]
     },
     {
       "id": 2, "title": "Full Stack Blog Website",
