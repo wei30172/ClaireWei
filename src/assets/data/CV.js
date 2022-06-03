@@ -44,7 +44,7 @@ const CVData = {
       "keywords": ["React", "Next.js", "Sanity", "PayPal"],
       "link": "https://react-next-sanity-ecommerce-wei30172.vercel.app/",
       "code": "https://github.com/wei30172/react-next-sanity-ecommerce",
-      "description": "Built a ecommerce website with React, Next.js, and Sanity. Users can place orders and see order history.",
+      "description": "Built an E-commerce website with React, Next.js, and Sanity. Users can place orders and see order history.",
       "images": ["full-stack-ecommerce1", "full-stack-ecommerce2", "full-stack-ecommerce3", "full-stack-ecommerce4", "full-stack-ecommerce5", "full-stack-ecommerce6", "full-stack-ecommerce7", "full-stack-ecommerce8", "full-stack-ecommerce9"]
     },
     {
@@ -71,7 +71,7 @@ const CVData = {
       "keywords": ["React", "Redux", "TypeScript"],
       "link": "https://react-redux-ts-shoppingcart.vercel.app/",
       "code": "https://github.com/wei30172/react-redux-ts-shoppingcart",
-      "description": "Built the E-commerce shopping cart with React, Redux, and TypeScript. Users can add products to the shopping cart and create an order.",
+      "description": "Built a simple E-commerce shopping cart with React, Redux, and TypeScript. Users can add products to the shopping cart and create an order.",
       "images": ["react-e-commerce1", "react-e-commerce2", "react-e-commerce3", "react-e-commerce4", "react-e-commerce5"]
     },
     {
