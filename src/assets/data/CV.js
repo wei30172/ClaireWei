@@ -19,7 +19,6 @@ const CVData = {
       "description": "Collaborated with developers, designers, and project managers to conceive product ideas and implement new features for the online education platform. Users include 930,000 students.",
       "contents": [
         "Implemented the game character information page and related reusable components using Vue.js with TypeScript. (Users can collect and select the online character)",
-        "Responsible for the production of the homepage. (including Implementing bulletin and ranking components)",
         "Developed a web browser game based on Phaser 3 game framework. (similar to Candy Crush)",
         "Used GitLab with SourceTree for version control."
       ]
