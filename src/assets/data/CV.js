@@ -7,32 +7,31 @@ const CVData = {
     { "title": "Vue.js", "score": 4},
     { "title": "React.js", "score": 4},
     { "title": "RWD", "score": 3},
-    { "title": "Typescript", "score": 2},
+    { "title": "Typescript", "score": 3},
     { "title": "Phaser 3", "score": 2}
   ],
   experiences: [
     {
       "title": "Front-end Engineer",
-      "time": "2021.03 - 2021.08",
+      "time": "Mar. 2021－Aug. 2021",
       "company": "Enable Educational Technology Co., Ltd.",
       "location": "Taipei, Taiwan",
-      "description": "Worked with the UI designers and backend engineers to build features for the online education platform.",
+      "description": "Collaborated with developers, designers, and project managers to conceive product ideas and implement new features for the online education platform. Users include 930,000 students.",
       "contents": [
-        "Implemented the game character information page (users can collect and select the online character on this page) using Vue.js with TypeScript, and the layout followed the Adobe XD provided by UI.",
-        "Developed a web browser game (similar to Candy Crush) based on Phaser 3 game framework.",
-        "Solved the bugs in the existing background management interface and enhanced user experiences.",
+        "Implemented the game character information page and related reusable components using Vue.js with TypeScript. (Users can collect and select the online character).",
+        "Developed a web browser game based on Phaser 3 game framework. (similar to Candy Crush).",
         "Used GitLab with SourceTree for version control."
       ]
     },
     {
       "title": "Front-end Engineer",
-      "time": "2020.07 - 2021.02",
+      "time": "Jul. 2020－Feb. 2021",
       "company": "Tianxuan Technology Co., Ltd.",
       "location": "Taipei, Taiwan",
-      "description":"Worked with the UI designers (using Zeplin) to build web features for financial apps.",
+      "description":"Collaborated with developers, designers, and product managers to build new features for financial apps.",
       "contents": [
-        "Implemented 35 App layouts and App promotion webpage using Vue.js.",
-        "Developed a new referral function for inviting new friends to get bonuses (using Vue.js).",
+        "Implemented 35 App layouts and the front end of the company's own web portals using Vue.js.",
+        "Developed a new referral function for inviting new friends to get bonuses.",
         "Use Bitbucket with SourceTree for version control."
       ]
     },
@@ -40,34 +39,34 @@ const CVData = {
   projects: [
     {
       "id": 1, "title": "Full Stack Ecommerce Website",
-      "time": "2022.05",
+      "time": "May. 2022",
       "keywords": ["React", "Next.js", "Sanity", "PayPal"],
       "link": "https://react-next-sanity-ecommerce-wei30172.vercel.app/",
       "code": "https://github.com/wei30172/react-next-sanity-ecommerce",
-      "description": "Built an E-commerce website with React, Next.js, and Sanity. Users can place orders and see order history.",
+      "description": "Developed an E-commerce website with React, Next.js, and Sanity. Implemented authentication in Next.js using JWT. Users can place orders and see order history. Users can search products by keywords, filter products by prices and categories, and sort products by prices or reviews.",
       "images": ["full-stack-ecommerce1", "full-stack-ecommerce2", "full-stack-ecommerce3", "full-stack-ecommerce4", "full-stack-ecommerce5", "full-stack-ecommerce6", "full-stack-ecommerce7", "full-stack-ecommerce8", "full-stack-ecommerce9"]
     },
     {
       "id": 2, "title": "Full Stack Blog Website",
-      "time": "2022.03",
+      "time": "Mar. 2022",
       "keywords": ["React", "Redux", "Next.js", "Tailwind CSS", "GraphQL"],
       "link": "https://react-next-blog-202203.netlify.app/",
       "code": "https://github.com/wei30172/react-next-blog",
-      "description": "Used React, Next.js, Tailwind CSS, and GraphQL to build a Blog Website with featured and recent posts, categories.",
+      "description": "Used React, Next.js, Tailwind CSS, and GraphQL to build a Blog Website. Authenticate users with Netlify Identity. Users can log in to reply to the posts. Users can browse recent posts and choose posts based on categories",
       "images": ["full-stack-web1", "full-stack-web2", "full-stack-web3", "full-stack-web4", "full-stack-web5"]
     },
     {
       "id": 3, "title": "Full Stack MERN Website",
-      "time": "2022.02",
+      "time": "Feb. 2022",
       "keywords": ["React", "Redux", "Node.js", "Express", "MongoDB"],
       "link": "https://react-node-posts-202202.netlify.app/",
       "code": "https://github.com/wei30172/react-posts-client",
-      "description": "Used React, Node.js, Express, and MongoDB to build a simple social media Website.",
+      "description": "Used React, Node.js, Express, and MongoDB to build a simple social media Website. Authenticate users with JWT in Node.js. Users can log in to create and modify their own posts. Users can like others’ posts or leave comments, and search posts based on title or tags.",
       "images": ["MERN-web1", "MERN-web2", "MERN-web3", "MERN-web4", "MERN-web5", "MERN-web6"]
     },
     {
       "id": 4, "title": "E-Commerce Shopping Cart",
-      "time": "2022.01",
+      "time": "Jan. 2022",
       "keywords": ["React", "Redux", "TypeScript"],
       "link": "https://react-redux-ts-shoppingcart.vercel.app/",
       "code": "https://github.com/wei30172/react-redux-ts-shoppingcart",
@@ -76,7 +75,7 @@ const CVData = {
     },
     {
       "id": 5, "title": "Memory Game",
-      "time": "2021.11",
+      "time": "Nov. 2021",
       "keywords": ["React"],
       "link": "https://memory-game-react-bay.vercel.app/",
       "code": "https://github.com/wei30172/memory-game-react",
@@ -85,7 +84,7 @@ const CVData = {
     },
     {
       "id": 6, "title": "React Recipe Web",
-      "time": "2021.11",
+      "time": "Nov. 2021",
       "keywords": ["React", "Next"],
       "link": "https://recipe-next-contentful-three.vercel.app/",
       "code": "https://github.com/wei30172/recipe-next-contentful",
@@ -94,7 +93,7 @@ const CVData = {
     },
     {
       "id": 7, "title": "React Bulletin Board",
-      "time": "2021.10",
+      "time": "Oct. 2021",
       "keywords": ["React", "Firebase"],
       "link": "https://react-project-web-a896d.web.app/",
       "code": "https://github.com/wei30172/react-project-web",
@@ -103,7 +102,7 @@ const CVData = {
     },
     {
       "id": 8, "title": "React Reading List",
-      "time": "2021.10",
+      "time": "Oct. 2021",
       "keywords": ["React"],
       "link": "https://booklist-context-hooks.vercel.app/",
       "code": "https://github.com/wei30172/booklist-context-hooks",
@@ -112,7 +111,7 @@ const CVData = {
     },
     {
       "id": 9, "title": "Snake Game",
-      "time": "2021.10",
+      "time": "Oct. 2021",
       "keywords": ["HTML", "CSS", "JavaScript"],
       "link": "https://wei30172.github.io/Snake_Game/",
       "code": "https://github.com/wei30172/Snake_Game",
@@ -121,7 +120,7 @@ const CVData = {
     },
     {
       "id": 10, "title": "Tic Tac Toe",
-      "time": "2021.10",
+      "time": "Oct. 2021",
       "keywords": ["HTML", "CSS", "JavaScript"],
       "link": "https://wei30172.github.io/Tic_Tac_Toe/",
       "code": "https://github.com/wei30172/Tic_Tac_Toe",
@@ -130,7 +129,7 @@ const CVData = {
     },
     {
       "id": 11, "title": "E-Commerce Website",
-      "time": "2020.04",
+      "time": "Apr. 2020",
       "keywords": ["Vue", "Firebase", "Bootstrap"],
       "link": "https://vue-shop-3b5cc.web.app",
       "code": "https://github.com/wei30172/vue_shop_new",
