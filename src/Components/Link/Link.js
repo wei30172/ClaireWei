@@ -7,7 +7,7 @@ const Link = () => {
         target="_blank" rel="noopener noreferrer">
         <button>Vitae</button>
       </a>
-      <a href="https://www.linkedin.com/in/siao-ping-wei-b84b35207/"
+      <a href="https://www.linkedin.com/in/siaoping-wei/"
         target="_blank" rel="noopener noreferrer">
         <button className="linkedin">LinkedIn</button>
       </a>
