@@ -43,7 +43,7 @@ const CVData = {
       "keywords": ["React", "Next.js", "Sanity", "PayPal"],
       "link": "https://react-next-sanity-ecommerce-wei30172.vercel.app/",
       "code": "https://github.com/wei30172/react-next-sanity-ecommerce",
-      "description": "Developed an E-commerce website with React, Next.js, and Sanity. Implemented authentication in Next.js using JWT. Users can place orders and see order history. Users can search products by keywords, filter products by prices and categories, and sort products by prices or reviews.",
+      "description": "Developed an E-commerce website with React, Next.js, and Sanity. Users can place orders and see order history.",
       "images": ["full-stack-ecommerce1", "full-stack-ecommerce2", "full-stack-ecommerce3", "full-stack-ecommerce4", "full-stack-ecommerce5", "full-stack-ecommerce6", "full-stack-ecommerce7", "full-stack-ecommerce8", "full-stack-ecommerce9"]
     },
     {
@@ -52,7 +52,7 @@ const CVData = {
       "keywords": ["React", "Redux", "Next.js", "Tailwind CSS", "GraphQL"],
       "link": "https://react-next-blog-202203.netlify.app/",
       "code": "https://github.com/wei30172/react-next-blog",
-      "description": "Used React, Next.js, Tailwind CSS, and GraphQL to build a Blog Website. Authenticate users with Netlify Identity. Users can log in to reply to the posts. Users can browse recent posts and choose posts based on categories",
+      "description": "Used React, Next.js, Tailwind CSS, and GraphQL to build a blog Website with recent posts and categories.",
       "images": ["full-stack-web1", "full-stack-web2", "full-stack-web3", "full-stack-web4", "full-stack-web5"]
     },
     {
@@ -61,7 +61,7 @@ const CVData = {
       "keywords": ["React", "Redux", "Node.js", "Express", "MongoDB"],
       "link": "https://react-node-posts-202202.netlify.app/",
       "code": "https://github.com/wei30172/react-posts-client",
-      "description": "Used React, Node.js, Express, and MongoDB to build a simple social media Website. Authenticate users with JWT in Node.js. Users can log in to create and modify their own posts. Users can like others’ posts or leave comments, and search posts based on title or tags.",
+      "description": "Used React, Node.js, Express, and MongoDB to build a simple social media Website.",
       "images": ["MERN-web1", "MERN-web2", "MERN-web3", "MERN-web4", "MERN-web5", "MERN-web6"]
     },
     {

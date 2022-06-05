@@ -15,7 +15,7 @@ const ProjectList = ({ projects, title, page }) => {
                 <p>{ page === 'home' && project.keywords.map((keyword, index) =>(
                   <span key={index}>#{ keyword } </span>
                 )) }</p>
-                <div>{ page === 'project' && project.description }</div>
+                <div className='project-description'>{ page === 'project' && project.description }</div>
               </div> 
             </div>
 

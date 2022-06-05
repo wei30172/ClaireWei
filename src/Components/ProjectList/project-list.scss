@@ -21,6 +21,9 @@
         display: flex;
         justify-content: center;
         flex-direction: column;
+        .project-description{
+          text-align: justify;
+        }
       }
     }
   }  
