@@ -39,7 +39,7 @@ const CVData = {
   ],
   projects: [
     {
-      "id": 1, "title": "React.js Based Tetris Clone Application",
+      "id": 1, "title": "React.js Based Tetris Game",
       "time": "Jun. 2022",
       "keywords": ["React"],
       "link": "http://react-s3-tetris-clone.s3-website-us-west-1.amazonaws.com/",
