@@ -19,7 +19,7 @@ const CVData = {
       "description": "Collaborated with developers, designers, and project managers to conceive product ideas and implement new features for the online education platform. Users include 930,000 students.",
       "contents": [
         "Implemented the game character information page and related reusable components using Vue.js with TypeScript. (Users can collect and select the online character)",
-        "Developed a web browser game based on Phaser 3 game framework. (similar to Candy Crush)",
+        "Developed a web browser game based on the Phaser 3 game framework. (similar to Candy Crush)",
         "Cleaned and refactored codebase about game question setting section, and fixed 5 minor bugs.",
         "Used GitLab with SourceTree for version control."
       ]
@@ -39,7 +39,16 @@ const CVData = {
   ],
   projects: [
     {
-      "id": 1, "title": "Next.js Based Modern Ecommerce Application",
+      "id": 1, "title": "React.js Based Tetris Clone Application",
+      "time": "Jun. 2022",
+      "keywords": ["React"],
+      "link": "http://react-s3-tetris-clone.s3-website-us-west-1.amazonaws.com/",
+      "code": "https://github.com/wei30172/tetris-clone",
+      "description": "Implement a Tetris clone with JavaScript and React.js. Automatic deploy App from GitHub to AWS S3 using CodeBuild.",
+      "images": ["react-tetris1", "react-tetris2"]
+    },
+    {
+      "id": 2, "title": "Next.js Based Modern Ecommerce Application",
       "time": "May. 2022",
       "keywords": ["React", "Next.js", "Sanity", "PayPal"],
       "link": "https://react-next-sanity-ecommerce-wei30172.vercel.app/",
@@ -48,7 +57,7 @@ const CVData = {
       "images": ["full-stack-ecommerce1", "full-stack-ecommerce2", "full-stack-ecommerce3", "full-stack-ecommerce4", "full-stack-ecommerce5", "full-stack-ecommerce6", "full-stack-ecommerce7", "full-stack-ecommerce8", "full-stack-ecommerce9"]
     },
     {
-      "id": 2, "title": "Next.js Based Modern Blog Application ",
+      "id": 3, "title": "Next.js Based Modern Blog Application ",
       "time": "Mar. 2022",
       "keywords": ["React", "Redux", "Next.js", "Tailwind CSS", "GraphQL"],
       "link": "https://react-next-blog-202203.netlify.app/",
@@ -57,7 +66,7 @@ const CVData = {
       "images": ["full-stack-web1", "full-stack-web2", "full-stack-web3", "full-stack-web4", "full-stack-web5"]
     },
     {
-      "id": 3, "title": "MERN Social Media App",
+      "id": 4, "title": "MERN Social Media App",
       "time": "Feb. 2022",
       "keywords": ["React", "Redux", "Node.js", "Express", "MongoDB"],
       "link": "https://react-node-posts-202202.netlify.app/",
@@ -66,7 +75,7 @@ const CVData = {
       "images": ["MERN-web1", "MERN-web2", "MERN-web3", "MERN-web4", "MERN-web5", "MERN-web6"]
     },
     {
-      "id": 4, "title": "React.js Based Shopping Cart",
+      "id": 5, "title": "React.js Based Shopping Cart",
       "time": "Jan. 2022",
       "keywords": ["React", "Redux", "TypeScript"],
       "link": "https://react-redux-ts-shoppingcart.vercel.app/",
@@ -75,7 +84,7 @@ const CVData = {
       "images": ["react-e-commerce1", "react-e-commerce2", "react-e-commerce3", "react-e-commerce4", "react-e-commerce5"]
     },
     {
-      "id": 5, "title": "Memory Game",
+      "id": 6, "title": "Memory Game",
       "time": "Nov. 2021",
       "keywords": ["React"],
       "link": "https://memory-game-react-bay.vercel.app/",
@@ -84,7 +93,7 @@ const CVData = {
       "images": ["react-memory-game1", "react-memory-game2"]
     },
     {
-      "id": 6, "title": "Tic Tac Toe",
+      "id": 7, "title": "Tic Tac Toe",
       "time": "Oct. 2021",
       "keywords": ["HTML", "CSS", "JavaScript"],
       "link": "https://wei30172.github.io/Tic_Tac_Toe/",
