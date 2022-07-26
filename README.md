@@ -1,2 +1,8 @@
 # Siao-Ping, Wei
-## Experienced Frontend Developer. Able to work with UI/UX designers and back-end engineers to create user interfaces using HTML5, CSS3, JavaScript, TypeScript, Vue, and React.
+## Experienced web Developer. Having experiences in front-end and back-end.
+
+## Front End
+HTML, CSS, Tailwind CSS, JavaScript/TypeScript, Vue/Vuex, React/Redux, Next.js
+
+## Back End
+Node.js
