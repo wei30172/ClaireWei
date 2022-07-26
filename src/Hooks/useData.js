@@ -1,14 +1,14 @@
-import { useState, useEffect } from 'react'
-import CVData from '../assets/data/CV';
+import { useState, useEffect } from "react";
+import CVData from "../assets/data/CV";
 
 const useData = () => {
-  const [data, setData] = useState([])
-  
+  const [data, setData] = useState([]);
+
   useEffect(() => {
-    setData(CVData)
-  }, [])
+    setData(CVData);
+  }, []);
 
-  return { data }
-}
+  return { data };
+};
 
-export default useData
+export default useData;

@@ -79,7 +79,8 @@
     "test": "node scripts/test.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "server": "npx json-server --watch data/db.json --port 8000"
+    "server": "npx json-server --watch data/db.json --port 8000",
+    "prettier": "prettier --config .prettierrc \"src/**/*.{js,jsx,ts,tsx}\" --write"
   },
   "eslintConfig": {
     "extends": [
@@ -100,6 +101,7 @@
     ]
   },
   "devDependencies": {
+    "prettier": "^2.7.1",
     "sass-resources-loader": "^2.2.4"
   },
   "jest": {

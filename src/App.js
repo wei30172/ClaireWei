@@ -1,16 +1,12 @@
-import Navbar from './Components/Navbar/Navbar';
-import Link from './Components/Link/Link';
-import Home from './Pages/Home/Home';
-import Work from './Pages/Work/Work';
-import Projects from './Pages/Projects/Projects';
-import NotFound from './Pages/NotFound/NotFound';
-import ProjectDetails from './Pages/ProjectDetails/ProjectDetails';
+import Navbar from "./Components/Navbar/Navbar";
+import Link from "./Components/Link/Link";
+import Home from "./Pages/Home/Home";
+import Work from "./Pages/Work/Work";
+import Projects from "./Pages/Projects/Projects";
+import NotFound from "./Pages/NotFound/NotFound";
+import ProjectDetails from "./Pages/ProjectDetails/ProjectDetails";
 
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-} from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
   return (
