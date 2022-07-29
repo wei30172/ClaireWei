@@ -14,25 +14,25 @@ const ProjectDetails = () => {
       {error && <div>{error}</div>}
       {project && (
         <article>
-          <div className="title">
+          <section className="title">
             <h2>{project.title}</h2>
-            <a href={project.code} target="_blank" rel="noopener noreferrer">
-              <button className="code">CODE</button>
-            </a>
-          </div>
-          <p>
+          </section>
+          <section className="keywords">
             {project.keywords &&
               project.keywords.map((keyword, index) => (
                 <span key={index}>#{keyword}</span>
               ))}
-          </p>
-          <p>
-            <a href={project.link} target="_blank" rel="noopener noreferrer">
-              <span>{project.link}</span>
+          </section>
+          <section className="buttons">
+            <a href={project.code} target="_blank" rel="noopener noreferrer">
+              <button className="code">CODE</button>
             </a>
-          </p>
-          <div>{project.description}</div>
-          <div className="project-images">
+            <a href={project.link} target="_blank" rel="noopener noreferrer">
+              <button className="code">LINK</button>
+            </a>
+          </section>
+          <section>{project.description}</section>
+          <section className="project-images">
             {project.images &&
               project.images.map((img, index) => (
                 <img
@@ -41,7 +41,7 @@ const ProjectDetails = () => {
                   alt="img"
                 />
               ))}
-          </div>
+          </section>
         </article>
       )}
     </div>
