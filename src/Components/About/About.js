@@ -6,8 +6,11 @@ const About = () => {
       <h2>About</h2>
       <p className="about-container">
         Experienced Frontend Developer. Having experiences in front-end and
-        back-end. Able to implement user interfaces using HTML5, CSS3, Tailwind
-        CSS, <b>JavaScript/TypeScript, Vue/Vuex, React/Redux, Next.js.</b>
+        back-end.
+        <br />
+        <b>HTML, CSS, Sass, Tailwind CSS, JavaScript/TypeScript, </b>
+        <b>Vue & Vuex, React & Redux, Next.js, </b>
+        <b>React Testing Library, Jest, and Cypress.</b>
       </p>
     </div>
   );
