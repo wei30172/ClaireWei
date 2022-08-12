@@ -10,13 +10,13 @@ const Link = () => {
       >
         <button>Vitae</button>
       </a>
-      <a
+      {/* <a
         href="https://www.linkedin.com/in/siaoping-wei/"
         target="_blank"
         rel="noopener noreferrer"
       >
         <button className="linkedin">LinkedIn</button>
-      </a>
+      </a> */}
       <a
         href="https://github.com/wei30172"
         target="_blank"
