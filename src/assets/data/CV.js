@@ -3,12 +3,12 @@ const CVData = {
     { "title": "HTML 5", "score": 4},
     { "title": "CSS 3", "score": 4},
     { "title": "Javascript", "score": 4},
-    { "title": "Git & Github", "score": 4},
+    { "title": "Typescript", "score": 4},
     { "title": "Vue.js", "score": 4},
     { "title": "React.js", "score": 4},
+    { "title": "Git & GitHub", "score": 4},
     { "title": "Next.js", "score": 3},
-    { "title": "Typescript", "score": 3},
-    { "title": "Phaser 3", "score": 2}
+    { "title": "Cypress", "score": 3}
   ],
   experiences: [
     {
