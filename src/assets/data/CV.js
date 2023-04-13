@@ -1,6 +1,6 @@
 const CVData = {
   skills: [
-    { "title": "HTML 5", "score": 4},
+    { "title": "HTML 5", "score": 3},
     { "title": "CSS 3", "score": 4},
     { "title": "Javascript", "score": 4},
     { "title": "Typescript", "score": 4},
